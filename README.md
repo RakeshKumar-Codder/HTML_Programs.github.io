@@ -14,6 +14,15 @@ A simple and responsive Student Registration Form built using HTML & CSS. This p
 📷 Photo upload option
 🔘 Submit & Reset buttons
 
+👤 Student Name
+🎂 Date of Birth
+🚻 Gender
+📞 Mobile Number
+📧 Email ID
+🏠 Address
+🎓 Course / Class
+🆔 Student ID (optional)
+
 🛠️ Technologies Used
   HTML5
   CSS3
